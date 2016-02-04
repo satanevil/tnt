@@ -220,28 +220,21 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {142290354,163543039,0,tonumber(our_id)},--Sudo users
+    sudo_users = {144132967,139763200,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[The Greate Satan
 
-https://github.com/SEEDTEAM/TeleSeed
+
+
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@BI_MOKH021 [Founder]
+@TnT_BoY1 [Manager]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
+seedteam
 ]],
     help_text = [[
 Commands list :
